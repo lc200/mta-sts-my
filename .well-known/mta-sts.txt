@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mail.mycmd.co.uk
+mx: *.1and1.co.uk
 max_age: 86400
